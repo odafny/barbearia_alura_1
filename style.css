@@ -1,9 +1,16 @@
 body {
+    
+}
+.pricipal {
     background: #ccccc;
+    padding: 30px;
+}
+#banner {
+    width: 100%;
 }
 p {
     text-align: center;
 }
 em strong {
-color: #9500ff;
+    color:blue; 
 }
